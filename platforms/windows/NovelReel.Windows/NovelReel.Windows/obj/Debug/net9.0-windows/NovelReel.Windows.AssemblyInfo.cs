@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovelReel.Windows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95269cbef4ba3552786ccdde98849bba8549e07a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa1f66697636460b72e1a2f17a599a111e52976b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovelReel.Windows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovelReel.Windows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
